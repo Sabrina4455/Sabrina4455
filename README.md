@@ -9,5 +9,5 @@
 # Travel
 [Page 3](page3.md)
 
-# Colors
+# Favorites
 [Page 4](page4.md)
