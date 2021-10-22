@@ -1,4 +1,4 @@
-## Hobbies ##
+## Hobbies 
 
 Some of my favorite hobbies are:
 
