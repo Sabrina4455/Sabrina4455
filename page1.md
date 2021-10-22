@@ -1,5 +1,3 @@
-title: About Me
-
 ## School
 Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am majoring in Information Technology.
 
