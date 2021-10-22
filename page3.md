@@ -1,6 +1,8 @@
-## Traveling
+# Traveling
 
 One of my favorite things in the world is traveling! I have been to Canada, Mexico, The Bahamas, Hawaii, Alaska, Florida, etc.
+
+## Cruising
 
 I have been on 34 cruises in my life. My favorite cruise line to cruise on is Disney Cruise Line!
 
