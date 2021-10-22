@@ -1,3 +1,19 @@
+title: About Me
+
+description: Sabrina Broadway Fall 2021 Midterm Project
+
+theme: jekyll-theme-cayman
+
+buttons:
+
+zip_title: Index
+
+zip_title: Page2
+
+zip_title: Page3
+
+zip_title: Page4
+
 # School
 Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am majoring in Information Technology.
 
