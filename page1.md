@@ -5,6 +5,9 @@ Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am maj
 
 [Mizzou](https://missouri.edu/)
 
+![mizzou](https://user-images.githubusercontent.com/89413296/138403489-be616a6a-8a57-49c2-bc36-ad4cf3ad1968.PNG)
+
+
 ## FizzBuzz
 
 Something I learned this year was how to write a *FizzBuzz* program.
