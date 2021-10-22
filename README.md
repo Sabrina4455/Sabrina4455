@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 
 ## School
 [Page 1](page1.md)
