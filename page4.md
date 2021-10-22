@@ -31,3 +31,5 @@
 **2. Rock** 
 
 **3. Soul**
+
+![favorites](https://user-images.githubusercontent.com/89413296/138402304-94848790-45ee-4880-9829-4f9090a7de05.PNG)
