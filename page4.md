@@ -19,7 +19,7 @@
 
 **3. Pancakes**
 
-**4. blueberries**
+**4. Blueberries**
 
 **5. Cashews**
 
