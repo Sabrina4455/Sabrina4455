@@ -1,5 +1,11 @@
-## School
+# School
 Hi my name is Sabrina Broadway and I am a Sophmore at Mizzou this year. I am majoring in Information Technology.
+
+**Here is the link to the Mizzou website:**
+
+[Mizzou](https://missouri.edu/)
+
+## FizzBuzz
 
 Something I learned this year was how to write a *FizzBuzz* program.
 
