@@ -1,5 +1,5 @@
 # School
-[Index](index.md)
+[Page 1](page1.md)
 
 # Hobbies
 [Page 2](page2.md)
